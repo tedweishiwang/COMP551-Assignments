@@ -1,0 +1,4 @@
+The best max depth: 7	(range :1 to 30)
+The best min split is: 0.1	(range :0 to 1)
+The best min leaf is: 0.05	(range :0 to 0.5)
+The best max features: 769	(range :1 to 1000)

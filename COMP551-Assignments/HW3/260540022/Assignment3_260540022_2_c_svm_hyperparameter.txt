@@ -1,0 +1,4 @@
+The intercept scaling: 47	(range :1 to 50)
+The best max iteration is: 96	(range :1 to 100)
+The best randome state is: 50	(range :1 to 100)
+The best tolerance is: 1e-06	(range :1e-6 to 1e-3)

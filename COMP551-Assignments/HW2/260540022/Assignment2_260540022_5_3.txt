@@ -1,0 +1,10 @@
+best fit K value: 95
+
+best fit accuracy: 0.57375
+
+best fit precision: 0.5778364116094987
+
+best fit recall: 0.5475
+
+best fit F-measure: 0.5622593068035943
+

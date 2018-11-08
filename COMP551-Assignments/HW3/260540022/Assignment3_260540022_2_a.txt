@@ -1,0 +1,2 @@
+uniform: 0.1885
+majority: 0.351

@@ -1,0 +1,1 @@
+best alpha: 0.0100000001	(range: 1e-10 to 0.1)

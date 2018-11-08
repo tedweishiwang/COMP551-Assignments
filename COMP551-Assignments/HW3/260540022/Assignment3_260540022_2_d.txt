@@ -1,0 +1,14 @@
+Train performance: 
+naive bayes: 0.7305714285714285
+decision tree: 0.41228571428571426
+svm: 0.898857142857143
+
+Valid performance: 
+naive bayes: 0.424
+decision tree: 0.377
+svm: 0.505
+
+Test performance: 
+naive bayes: 0.444
+decision tree: 0.396
+svm: 0.501
